@@ -8,7 +8,7 @@ function App() {
     <main className="container my-5">
 <h1>Hola Mundo</h1>
 <Bienvenidos/>
-<TeoriaComponente/>
+<TeoriaComponente comision='Web 13'/>
 
   </main>
   );
