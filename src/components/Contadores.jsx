@@ -16,7 +16,7 @@ const Contadores = () => {
   <div className="card-body">
     <h5 className="card-title">Contador</h5>
     <p className="card-text fs-3">{contador}</p>
-    <button className='btn btn-primary' onClick={ () => (contador +1)}>+</button>
+    <button className='btn btn-primary' onClick={sumar}>+</button>
   </div>
 </div>
         </section>
